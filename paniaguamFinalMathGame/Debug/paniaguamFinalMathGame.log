@@ -1,0 +1,11 @@
+﻿  test.cpp
+  Generating Code...
+  Compiling...
+  mathgame.cpp
+h:\co_sci_840\paniaguamfinalmathgame\paniaguamfinalmathgame\mathgame.cpp(76): warning C4244: 'initializing': conversion from 'time_t' to 'unsigned int', possible loss of data
+h:\co_sci_840\paniaguamfinalmathgame\paniaguamfinalmathgame\mathgame.cpp(92): warning C4244: 'initializing': conversion from 'time_t' to 'unsigned int', possible loss of data
+h:\co_sci_840\paniaguamfinalmathgame\paniaguamfinalmathgame\mathgame.cpp(113): warning C4244: 'initializing': conversion from 'time_t' to 'unsigned int', possible loss of data
+h:\co_sci_840\paniaguamfinalmathgame\paniaguamfinalmathgame\mathgame.cpp(139): warning C4244: 'initializing': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
+  paniaguamFinalMathGame.vcxproj -> H:\co_sci_840\paniaguamFinalMathGame\Debug\paniaguamFinalMathGame.exe
+  paniaguamFinalMathGame.vcxproj -> H:\co_sci_840\paniaguamFinalMathGame\Debug\paniaguamFinalMathGame.pdb (Partial PDB)
